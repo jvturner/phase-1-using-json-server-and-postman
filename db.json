@@ -1,0 +1,27 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Example Article",
+      "content": "This is an example."
+    },
+    {
+      "id": 2,
+      "title": "Second Article",
+      "content": "This is also an example."
+    },
+    {
+      "id": 3
+    },
+    {
+      "title": "Third Article",
+      "content": "Another example!",
+      "id": 7
+    },
+    {
+      "title": "What's Up with all the blank I.D.'s?",
+      "content": "When posting from Postman to my JSON server I had the dropdown menu clicked to text/instead of JSON.... Is was a mistake made by using the scroll action on my mousewheel to scroll up and down",
+      "id": 8
+    }
+  ]
+}
